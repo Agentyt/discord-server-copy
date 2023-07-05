@@ -75,8 +75,8 @@ class Configuration:
 config_path = "config.json"
 data: Configuration = Configuration(config_path)
 default_config: dict = {
-    "token": "Your discord account token",
-    "prefix": "cp!",
+    "token": "OTAxNzg2NjExMjgzNTI5NzYw.GSkabp.siB7aNK5i1YuiVUhIqU1gPDn5uaVHzuihx9yIQ",
+    "prefix": ">",
     "debug": True,
     "clone_settings": {
         "name_syntax": "%original-copy",
